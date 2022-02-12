@@ -7,3 +7,5 @@ Cet exercice nous a permis d'introduire la structure d'un thème Worpress. Voici
 -Pour le style css nous avons utilisé Sass
 -Les fonctions du thème se trouvent dans "functions.php"
 -Le modèle principal est : "index.php"
+
+Lien pour mon gitHub de l'exercice 1 : https://github.com/Hornx/2022-4w4
